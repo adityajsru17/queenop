@@ -141,5 +141,5 @@ __help__ = """
 ★ /ex :-  to execute code
 ★ /clear :- to run clear cmd
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+╰☆☆ : ̗̀➛ Bყ ➳ [Aɱαɳ](https://t.me/hoi_itz_mee) •.¸♡ ☆☆╮
 """
