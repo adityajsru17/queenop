@@ -59,7 +59,7 @@ ml,mn,mr,ms,mt,my,ne,nl,no,ny,pa,pl,ps,pt,ro,ru,sd,si,sk,sl,
 sm,sn,so,sq,sr,st,su,sv,sw,ta,te,tg,th,tl,tr,uk,ur,uz,
 vi,xh,yi,yo,zh,zh_CN,zh_TW,zu`
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+╰☆☆《《☆ 𝕭ყ ➳ [A∂íƭყα](https://t.me/uttarpradeshi_17)  ☆》》☆☆╮
 """
 __mod_name__ = "⚡Tʀᴀɴs⚡"
 
