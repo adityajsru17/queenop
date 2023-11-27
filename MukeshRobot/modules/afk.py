@@ -149,7 +149,7 @@ __help__ = """
  ❍ ʙʏᴇ <ʀᴇᴀsᴏɴ>*:* sᴀᴍᴇ ᴀs ᴛʜᴇ ᴀғᴋ ᴄᴏᴍᴍᴀɴᴅ - ʙᴜᴛ ɴᴏᴛ ᴀ ᴄᴏᴍᴍᴀɴᴅ.
 ᴡʜᴇɴ ᴍᴀʀᴋᴇᴅ ᴀs ᴀғᴋ, ᴀɴʏ ᴍᴇɴᴛɪᴏɴs ᴡɪʟʟ ʙᴇ ʀᴇᴘʟɪᴇᴅ ᴛᴏ ᴡɪᴛʜ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ sᴀʏ ʏᴏᴜ'ʀᴇ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ!
  
-👑 [Q̬̂U͎E͎E͎N͎](https://t.me/queen_officialchnl) 👑↢╣[♡_♡]╠
+╰☆☆《《☆ 𝕭ყ ➳ [A∂íƭყα](https://t.me/uttarpradeshi_17)  ☆》》☆☆╮
 """
 
 AFK_HANDLER = DisableAbleCommandHandler("afk", afk)
