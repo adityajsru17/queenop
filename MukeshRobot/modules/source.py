@@ -20,21 +20,21 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/the_vip_boy)♨️
+🥀🌹💐 𝗠𝖺𝖽𝖾 𝐁ყ ➳ [Aժíƭყα](https://t.me/jsruordinators) 🌹🌺🌸
   
 ╚═════ஜ۩۞۩ஜ════╝
 
-**[𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**[˹ 𝐕ᴇᴇɴᴀ 𝐌ᴜꜱɪᴄ ˼ ♪](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ private.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "📍ᴏᴡɴᴇʀ📍",f"tg://user?id={OWNER_ID}"
+                        "📍 ᴏᴡɴᴇʀ 📍",f"tg://user?id={OWNER_ID}"
                     ),
                     InlineKeyboardButton(
-                        "📍ʀᴇᴘᴏ📍",
-                        url="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+                        "📍 ʀᴇᴘᴏ 📍",
+                        url="https://graph.org/file/8a6e40cffa440c22bc320.jpg",
                     ),
                 ]
             ]
