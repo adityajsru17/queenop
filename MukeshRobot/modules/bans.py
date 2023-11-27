@@ -410,7 +410,7 @@ __help__ = """
  ❍ /unban  <ᴜsᴇʀʜᴀɴᴅʟᴇ>*:* ᴜɴʙᴀɴs ᴀ ᴜsᴇʀ. (ᴠɪᴀ ʜᴀɴᴅʟᴇ, ᴏʀ ʀᴇᴘʟʏ)
  ❍ /kick <ᴜsᴇʀʜᴀɴᴅʟᴇ>*:* ᴋɪᴄᴋs ᴀ ᴜsᴇʀ ᴏᴜᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴘ, (ᴠɪᴀ ʜᴀɴᴅʟᴇ, ᴏʀ ʀᴇᴘʟʏ)
 
-👑 [Q̬̂U͎E͎E͎N͎](https://t.me/queen_officialchnl) 👑↢╣[♡_♡]╠
+╰☆☆《《☆ 𝕭ყ ➳ [A∂íƭყα](https://t.me/uttarpradeshi_17)  ☆》》☆☆╮
 """
 
 BAN_HANDLER = CommandHandler(["ban", "sban"], ban)
